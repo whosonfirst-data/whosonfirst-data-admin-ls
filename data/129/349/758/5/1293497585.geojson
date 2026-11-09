@@ -44,7 +44,7 @@
         "wk:page":"Kueneng"
     },
     "wof:country":"LS",
-    "wof:geomhash":"4885daf2dbf706fc21a891991329c157",
+    "wof:geomhash":"1368dcec98e25ba74747821df37a8c21",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -69,5 +69,5 @@
     28.00787,
     -29.07472000000001
 ],
-  "geometry": {"coordinates":[28.00787,-29.07472000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.00787,-29.07472],"type":"Point"}
 }

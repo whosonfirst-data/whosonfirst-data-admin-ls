@@ -40,7 +40,7 @@
         "gn:id":11288048
     },
     "wof:country":"LS",
-    "wof:geomhash":"a2cc300a51e1f22aeaf275e7d98d4cb6",
+    "wof:geomhash":"892d1d598b961617ca078c6f693e3538",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -65,5 +65,5 @@
     27.34724000000001,
     -29.7477
 ],
-  "geometry": {"coordinates":[27.34724000000001,-29.7477],"type":"Point"}
+  "geometry": {"coordinates":[27.34724,-29.7477],"type":"Point"}
 }

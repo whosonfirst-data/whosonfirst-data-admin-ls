@@ -53,7 +53,7 @@
         "wk:page":"Makhalaneng"
     },
     "wof:country":"LS",
-    "wof:geomhash":"75f619b21e487e1e097332467fdefeaa",
+    "wof:geomhash":"3b4650ea4da14c1c4f4a1db586edc835",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,5 +80,5 @@
     27.76667,
     -29.61667000000001
 ],
-  "geometry": {"coordinates":[27.76667,-29.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.76667,-29.61667],"type":"Point"}
 }

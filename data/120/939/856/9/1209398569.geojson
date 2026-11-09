@@ -38,7 +38,7 @@
         "gn:id":11287519
     },
     "wof:country":"LS",
-    "wof:geomhash":"7b4965fc06a6205410665fcc3bdb4538",
+    "wof:geomhash":"67488937cf09f061dd572aa1062d098c",
     "wof:hierarchy":[
         {
             "country_id":85632173,
@@ -61,5 +61,5 @@
     27.74166,
     -29.15139000000001
 ],
-  "geometry": {"coordinates":[27.74166,-29.15139000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.74166,-29.15139],"type":"Point"}
 }

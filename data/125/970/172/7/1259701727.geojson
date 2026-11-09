@@ -53,7 +53,7 @@
         "wk:page":"Rafolatsane"
     },
     "wof:country":"LS",
-    "wof:geomhash":"c7d745f4ec73997fd04ab75a4544b670",
+    "wof:geomhash":"b5ff6b7b82167790ff463b7193ceba76",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,5 +78,5 @@
     29.00679,
     -29.34799000000001
 ],
-  "geometry": {"coordinates":[29.00679,-29.34799000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.00679,-29.34799],"type":"Point"}
 }
