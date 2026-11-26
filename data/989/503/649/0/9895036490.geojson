@@ -1,0 +1,73 @@
+{
+  "id": 9895036490,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.86802,-29.20026,28.86802,-29.20026",
+    "geom:latitude":-29.20026,
+    "geom:longitude":28.86802,
+    "gn:population":3739,
+    "iso:country":"LS",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12687291: name \"Mapholaneng\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12687291"
+        },
+        {
+            "citation":"GeoNames populated place 12687291: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12687291"
+        },
+        {
+            "citation":"GeoNames populated place 12687291: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12687291"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85673847 (Mokhotlong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632173,
+        85673847,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12687291
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"fb06c545b47ec8b897689a0f2d0cdcfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":9895036490,
+            "region_id":85673847
+        }
+    ],
+    "wof:id":9895036490,
+    "wof:lastmodified":1795735207,
+    "wof:name":"Mapholaneng",
+    "wof:parent_id":85673847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.86802,
+    -29.20026,
+    28.86802,
+    -29.20026
+],
+  "geometry": {"coordinates":[28.86802,-29.20026],"type":"Point"}
+}
