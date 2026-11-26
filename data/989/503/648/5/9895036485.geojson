@@ -1,0 +1,73 @@
+{
+  "id": 9895036485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.54947,-29.271,28.54947,-29.271",
+    "geom:latitude":-29.271,
+    "geom:longitude":28.54947,
+    "gn:population":1858,
+    "iso:country":"LS",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12687285: name \"Seshote\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12687285"
+        },
+        {
+            "citation":"GeoNames populated place 12687285: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12687285"
+        },
+        {
+            "citation":"GeoNames populated place 12687285: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12687285"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85673843 (Leribe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632173,
+        85673843,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12687285
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"1038fd124b1d4262e8bfcc11528458ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":9895036485,
+            "region_id":85673843
+        }
+    ],
+    "wof:id":9895036485,
+    "wof:lastmodified":1795735207,
+    "wof:name":"Seshote",
+    "wof:parent_id":85673843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.54947,
+    -29.271,
+    28.54947,
+    -29.271
+],
+  "geometry": {"coordinates":[28.54947,-29.271],"type":"Point"}
+}

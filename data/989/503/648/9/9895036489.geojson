@@ -1,0 +1,73 @@
+{
+  "id": 9895036489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.54341,-29.7566,27.54341,-29.7566",
+    "geom:latitude":-29.7566,
+    "geom:longitude":27.54341,
+    "gn:population":2486,
+    "iso:country":"LS",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12687289: name \"Makhakhe\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12687289"
+        },
+        {
+            "citation":"GeoNames populated place 12687289: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12687289"
+        },
+        {
+            "citation":"GeoNames populated place 12687289: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12687289"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85673861 (Mafeteng), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632173,
+        85673861,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12687289
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"355f6e8d12b03a8acf28f23a737a49a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":9895036489,
+            "region_id":85673861
+        }
+    ],
+    "wof:id":9895036489,
+    "wof:lastmodified":1795735207,
+    "wof:name":"Makhakhe",
+    "wof:parent_id":85673861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.54341,
+    -29.7566,
+    27.54341,
+    -29.7566
+],
+  "geometry": {"coordinates":[27.54341,-29.7566],"type":"Point"}
+}

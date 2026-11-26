@@ -1,0 +1,73 @@
+{
+  "id": 9895036483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.12965,-30.19397,28.12965,-30.19397",
+    "geom:latitude":-30.19397,
+    "geom:longitude":28.12965,
+    "gn:population":1978,
+    "iso:country":"LS",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12687283: name \"Mphaki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12687283"
+        },
+        {
+            "citation":"GeoNames populated place 12687283: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12687283"
+        },
+        {
+            "citation":"GeoNames populated place 12687283: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12687283"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85673833 (Quthing), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632173,
+        85673833,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12687283
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"52290336e6d63051b5cfaecf1d345e8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":9895036483,
+            "region_id":85673833
+        }
+    ],
+    "wof:id":9895036483,
+    "wof:lastmodified":1795735207,
+    "wof:name":"Mphaki",
+    "wof:parent_id":85673833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.12965,
+    -30.19397,
+    28.12965,
+    -30.19397
+],
+  "geometry": {"coordinates":[28.12965,-30.19397],"type":"Point"}
+}
